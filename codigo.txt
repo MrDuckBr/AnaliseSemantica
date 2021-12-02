@@ -1,3 +1,11 @@
-int aa
-aa = ba + ca
-a
+int valor;
+int teste;
+int analise;
+bool boleano;
+bool boleano2;
+bool boleano3;
+teste = valor + analise;
+boleano = boleano2 + boleano3;
+teste = 10;
+
+
